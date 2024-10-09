@@ -7,5 +7,3 @@ Calculates where the waterline will be on a hull design. Takes an STL and slices
 *Orientation of the model in the file must be +y up, but location with respect to origin doesn't matter.
 
 *Hulls must be filled in solid for this program to work.
-
-***Jupyter notebook version runs in Google Collab and has its own instructions inculded. Ideal for use by those with no python experience.
